@@ -39,7 +39,6 @@ class _TextFormFieldWidgetState extends State<TextFormFieldWidget> {
           validator: widget.validator,
           cursorColor: Colors.white,
           decoration: InputDecoration(
-//                        hintText: widget.isPhone ? '0000 000 00 966' : "",
             hintStyle: TextStyle(color: Colors.grey),
             fillColor: Colors.transparent,
             enabledBorder: const UnderlineInputBorder(

@@ -301,9 +301,10 @@ class _ServiceProviderLoginScreenState
                       child: Text(
                         'ليس لديك حساب؟انشاء حساب',
                         style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 16.0,
-                            fontFamily: 'beINNormal'),
+                          color: Colors.white,
+                          fontSize: 16.0,
+                          fontFamily: 'beINNormal',
+                        ),
                       ),
                     ),
                   ],
